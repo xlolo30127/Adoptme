@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xlolo30127/Adoptme/refs/heads/main/AdoptmeV1"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/4LZblhnaGt/0", true))()
