@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xlolo30127/Adoptme/refs/heads/main/AdoptmeV5"))()
+-- THIS IS ADOPT ME SCRIPT I AM JUST LAZY TO RENAME IT !
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xlolo30127/GAGScript/refs/heads/main/GrowagardenOP"))()
